@@ -24,3 +24,9 @@ This project is a web-based Fake News Detection system built using **Streamlit**
 
 ## 🗂 Project Structure
 
+📁 fake-news-detection/
+├── app.py # Streamlit app
+├── logistic_regression_model.pkl # Trained ML model
+├── tfidf_vectorizer.pkl # Saved TF-IDF vectorizer
+├── requirements.txt # Dependencies
+└── README.md
